@@ -1,0 +1,24 @@
+.div-block-180 {
+    width: 700px;
+    height: 500px;
+    max-height: 500px;
+    max-width: 700px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.div-block-158 {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: -5%;
+    display: flex;
+}
+
+@media screen and (max-width: 991px) {
+    .div-block-180 {
+        width: 75%;
+    }
+}

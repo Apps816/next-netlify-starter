@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'Windlass Extended Regular Webfont';
+    src: url('../public/fonts/windlassextended-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Windlass';
+    src: url('../public/fonts/windlass.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Manuskript Ant D Reg Regular';
+    src: url('../public/fonts/manuskript-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Manuskript Ant D Reg Italic';
+    src: url('../public/fonts/manuskript-italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Battlesbridgedemo Al 126';
+    src: url('../public/fonts/BattlesbridgeDemo-AL126.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Pirates Bay';
+    src: url('../public/fonts/PiratesBay.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Pirate Scroll';
+    src: url('../public/fonts/Pirate-Scroll.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'BooterOneZero-ZOB';
+    src: url('../public/fonts/BooterOneZero-ZOB.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Pirate Hunter';
+    src: url('../public/fonts/Pirate Hunter.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'ForestItalic';
+    src: url('../public/fonts/ForestItalicPersonalUseBoldItalic-MVmjw.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Grooved';
+    src: url('../public/fonts/GroovedPersonalUseRegular-9Y350.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Watcher';
+    src: url('../public/fonts/WatcherPersonalUseBold-BWexB.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'Eroded';
+    src: url('../public/fonts/THE GLOBE PERSONAL USE.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'The Globe';
+    src: url('../public/fonts/THE GLOBE PERSONAL USE.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
